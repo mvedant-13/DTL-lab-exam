@@ -15,3 +15,5 @@ if _name_ == "_main_":
     print("Subtraction:", subtract(num1, num2))
     print("Multiplication:", multiply(num1, num2))
     print("Division:", divide(num1, num2))
+    print("Issue solved")
+    
